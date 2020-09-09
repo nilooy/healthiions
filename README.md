@@ -18,6 +18,9 @@ npm run setup
 npm run dev
 ```
 
+> the react will be up on port 3000 if it's free but in case you are seeing a blank screen, just refresh.
+> the problem is with the tailwind config
+
 ## Structure: Stack/Tech
 
 ### MERN
