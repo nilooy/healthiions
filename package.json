@@ -1,0 +1,28 @@
+{
+  "name": "healthiions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server && npm start\" \"cd client/web && npm start\"",
+    "postdev": "start chrome http://localhost:3000",
+    "setup": "bash scripts/setup_local.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/aviions/app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/aviions/app/issues"
+  },
+  "homepage": "https://gitlab.com/aviions/app#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  }
+}

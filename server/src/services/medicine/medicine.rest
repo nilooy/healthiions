@@ -1,0 +1,18 @@
+### Create
+
+POST http://localhost:8000/api/medicine/create
+Content-Type: application/json
+
+{
+"name": "test",
+"company": "test",
+"geneticName": "asdasd",
+"alternative": "asdasdasd",
+"price": "123",
+"contraindication": "1231",
+"sideEffect": "asdasdas",
+"warning": "asdasdasd"
+}
+
+###
+GET http://localhost:8000/api/patient/read_all

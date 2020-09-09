@@ -1,0 +1,13 @@
+POST http://localhost:8000/api/signin/doctor
+Content-Type: application/json
+
+{
+    "email": "mdrezwanferdous@gmail.com",
+    "password": "1dfs"  
+}
+
+###
+
+GET http://localhost:8000/api/secret/doctor
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJIZWFsdGhpaW9ucyIsInN1YiI6IjVlYzE5N2EwNmIzYjA5MWMwYzNkYzYxNCIsImlhdCI6MTU4OTc1NDU3Nzk3MSwiZXhwIjoxNTg5ODQwOTc3OTcxfQ.Zwr-xblFOeb1QRk_xtheVtXEPRhaoUNSiGU5MNfEry0

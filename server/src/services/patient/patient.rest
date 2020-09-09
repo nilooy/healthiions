@@ -1,0 +1,19 @@
+### Create
+
+POST http://localhost:8000/api/patient/create
+Content-Type: application/json
+
+{
+"birthDate": "05/15/2020",
+"bloodGroup": "A+",
+"confirm": "1",
+"email": "niloyr2f@gmail.com",
+"gender": "male",
+"name": "Md Rezwan Ferdous Niloy",
+"nidNumber": 2345,
+"password": "1",
+"tel": "3533323"
+}
+
+###
+GET http://localhost:8000/api/patient/read_all
