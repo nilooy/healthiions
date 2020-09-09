@@ -18,7 +18,7 @@
     "url": "git+https://gitlab.com/aviions/app.git"
   },
   "keywords": [],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/aviions/app/issues"
   },

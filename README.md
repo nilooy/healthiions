@@ -68,3 +68,5 @@ npm run dev
 > tailwind file should be cleaned before pushing to github other wise there's a tons of unused css as the development version doesn't have pursing on.
 
 ## Contribution needed!
+
+## [LICENSE : MIT](https://github.com/nilooy/healthiions/blob/master/LICENSE)
