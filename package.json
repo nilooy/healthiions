@@ -1,5 +1,10 @@
 {
   "name": "healthiions",
+  "author": {
+    "name": "Rezwan Ferdous Niloy",
+    "email": "mdrezwanferdous@gmail.com",
+    "url": "https://nilooy.dev"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +18,6 @@
     "url": "git+https://gitlab.com/aviions/app.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://gitlab.com/aviions/app/issues"
